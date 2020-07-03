@@ -1,2 +1,3 @@
-# semantic_segmentation_cityscapes
 # segmentation
+
+Для установки распаковать в пустую папку и указать ее расположение в переменной HOME_PATH.
